@@ -9,8 +9,11 @@ Project Website Buku Angkatan Digital HIMATIF 2022
 Website ini bertujuan untuk memudahkan pencarian identitas angkatan 2022 Teknik Informatika Universitas Trunojoyo Madura.
 
 ## 🌏 Framework
-- #### Laravel 8 
+- #### Express
 - #### React Js  
+
+## 💾 Database
+- #### MongoDB
 
 ## 🔧 Tools
 - #### Figma
